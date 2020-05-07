@@ -3,7 +3,7 @@ Media key (Play, Next, Prev) as an Assetto Corsa UI app.
 
 **Note**: This was coded up in 15 minutes, so expect bugs.
 
-Install instruction: \
+Install instruction:
 1. Drop the `media_key` forlder in your `assettocorsa\apps\python` folder.
 2. (Content Manager user only) Enable this app in content Manager (Setting -> Assetto Corsa -> Apps).
 3. Add this app to your screen.
